@@ -6,7 +6,7 @@ const SecondScreen = () => {
       <div className={styles.profileImage}>
         <img
           width={200}
-          src="../assets/profileimg.jpeg"
+          src="https://avatars.githubusercontent.com/u/107892258?v=4"
           alt="Imagem de Perfil"
         />
       </div>
