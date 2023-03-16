@@ -1,0 +1,56 @@
+
+
+.profileImage {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.profileImage img {
+  border-radius: 5% 30%;
+}
+
+.info {
+  text-align: center;
+  margin: 35px 20px;
+}
+
+.info p {
+  background-color: #792ce64c;
+  padding: 25px;
+  border-radius: 10px;
+  color: #220C40;
+}
+
+.info h2 {
+  color: #220C40;
+}
+
+.info ul{
+  list-style-type: none;
+  padding: 20px;
+  background-color: #792ce64c;
+  border-radius: 10px;
+
+}
+
+.info li {
+  margin-bottom: 20px;
+  color: #220C40;
+}
+
+.containerProject {
+  margin: auto;
+  display: flex;
+  width: 70vw;
+  align-items: center;
+}
+
+p span {
+  display: block;
+  font-size: 25px;
+}
+
+p a {
+  text-decoration: none;
+}

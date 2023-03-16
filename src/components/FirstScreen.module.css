@@ -1,0 +1,46 @@
+.containerFirstPage {
+  height: 100vh;
+  background-image: url("../../public/assets/bgmobile.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.subContainer{
+  height: 100vh;
+  background-color: #8630ff8a;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  flex-direction: column
+}
+
+.subContainer h1, h2{
+  color: white;
+  margin: 0;
+}
+
+.icon {
+  display: flex;
+  position: absolute;
+  top: 90%;
+  animation: iconMove 2s infinite;
+}
+
+@keyframes iconMove {
+  0% {
+    top: 90%;
+  }
+  50% {
+    top: 93%;
+  }
+  100% {
+    top: 90%;
+  }
+}
+
+@media (min-width: 1000px) {
+  .subContainer h1, h2{
+    font-size: 3em;
+  }
+}
