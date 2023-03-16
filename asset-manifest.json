@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/portifolio-felipe-pellegrini/static/css/main.0c686992.css",
+    "main.js": "/portifolio-felipe-pellegrini/static/js/main.6ebe6c33.js",
+    "static/media/bgmobile.jpg": "/portifolio-felipe-pellegrini/static/media/bgmobile.0ebbb605b4ba1ce1d09d.jpg",
+    "index.html": "/portifolio-felipe-pellegrini/index.html",
+    "main.0c686992.css.map": "/portifolio-felipe-pellegrini/static/css/main.0c686992.css.map",
+    "main.6ebe6c33.js.map": "/portifolio-felipe-pellegrini/static/js/main.6ebe6c33.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c686992.css",
+    "static/js/main.6ebe6c33.js"
+  ]
+}
